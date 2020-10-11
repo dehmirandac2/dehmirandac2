@@ -20,12 +20,9 @@
 
 ## 💁 &nbsp;Alguns dados sobre meu trabalho 
 
-<p align="center">
-    <a href="https://github.com/dehmirandac2">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dehmirandac2&theme=buefy&show_icons=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dehmirandac2&theme=buefy&layout=compact" />
-    </a>
-</p>
+<a href="https://github.com/dehmirandac2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dehmirandac2&theme=buefy&show_icons=true" />
+</a>
 
 ## 📍 &nbsp;Onde mais me encontrar
 
