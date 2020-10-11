@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Deborah! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1>
+<h2 align="center">Olá, meu nome é Deborah! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h2>
 
 <p align="center">Sou formada em Design Gráfico pela UEMG e trabalho como desenvolvedora frontend há alguns (bons) anos</p>
 
@@ -18,12 +18,14 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+<h3> 👨‍💻 &nbsp;Alguns dados sobre meu trabalho </h3>
+
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dehmirandac2&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dehmirandac2&theme=buefy&layout=compact" />
 </a>
 
-<a href="https://sourcerer.io/Raghav-byte">Onde mais me encontrar 🌟 </a>
+<h3> 🌟 &nbsp;Onde mais me encontrar </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deborah-miranda-13721a37/)](https://www.linkedin.com/in/deborah-miranda-13721a37/) [![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dehmirandac2)](https://medium.com/@dehmirandac2)
 [![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dehmirandac2@gmail.com)](mailto:dehmirandac2@gmail.com)
