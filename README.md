@@ -20,13 +20,16 @@
 
 ## 💁 &nbsp;Alguns dados sobre meu trabalho 
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dehmirandac2&theme=buefy&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dehmirandac2&theme=buefy&layout=compact" />
-</div>
+<p align="center">
+    <a href="https://github.com/dehmirandac2">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dehmirandac2&theme=buefy&show_icons=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dehmirandac2&theme=buefy&layout=compact" />
+    </a>
+</p>
 
 ## 📍 &nbsp;Onde mais me encontrar
 
-[![Linkedin Badge](https://img.shields.io/badge/-deborahmiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deborah-miranda-13721a37/)](https://www.linkedin.com/in/deborah-miranda-13721a37/)[![Medium Badge](https://img.shields.io/badge/-@dehmirandac2-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dehmirandac2)](https://medium.com/@dehmirandac2)
+[![Linkedin Badge](https://img.shields.io/badge/-deborahmiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deborah-miranda-13721a37/)](https://www.linkedin.com/in/deborah-miranda-13721a37/)
+[![Medium Badge](https://img.shields.io/badge/-@dehmirandac2-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dehmirandac2)](https://medium.com/@dehmirandac2)
 [![Gmail Badge](https://img.shields.io/badge/-dehmirandac2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dehmirandac2@gmail.com)](mailto:dehmirandac2@gmail.com)
 
