@@ -2,11 +2,11 @@
 
 <p align="center">Sou formada em Design Gráfico pela UEMG e trabalho como desenvolvedora frontend há alguns (bons) anos</p>
 
-## 👨‍💻 &nbsp;Sobre mim
+## 👩‍💻 &nbsp;Sobre mim
 
--  **Trabalhando com:**  Desenvolvimento Frontend (React, Redux, Jest, Webpack, Babel, etc) :computer:
--  **Hobbies:** Bons livros :books: | Bons filmes :headphones:
--  **Pergunte-me sobre:** Qualquer coisa! Gosto de ajudar e de aprender coisas novas :v:
+-  **Trabalhando com:**  Desenvolvimento Frontend (React, Redux, Jest, Webpack, Babel, etc) 💻
+-  **Hobbies:** Bons livros :books: | Bons filmes 🎥
+-  **Pergunte-me sobre:** Qualquer coisa! Gosto de ajudar e de aprender coisas novas ✌️
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -18,15 +18,15 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## 👨‍💻 &nbsp;Alguns dados sobre meu trabalho 
+## 💁 &nbsp;Alguns dados sobre meu trabalho 
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dehmirandac2&theme=buefy&show_icons=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dehmirandac2&theme=buefy&layout=compact" />
 </div>
 
-## 🌟 &nbsp;Onde mais me encontrar
+## 📍 &nbsp;Onde mais me encontrar
 
-[![Linkedin Badge](https://img.shields.io/badge/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deborah-miranda-13721a37/)](https://www.linkedin.com/in/deborah-miranda-13721a37/) [![Medium Badge](https://img.shields.io/badge/?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dehmirandac2)](https://medium.com/@dehmirandac2)
-[![Gmail Badge](https://img.shields.io/badge/?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dehmirandac2@gmail.com)](mailto:dehmirandac2@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-deborahmiranda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deborah-miranda-13721a37/)](https://www.linkedin.com/in/deborah-miranda-13721a37/)[![Medium Badge](https://img.shields.io/badge/-@dehmirandac2-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dehmirandac2)](https://medium.com/@dehmirandac2)
+[![Gmail Badge](https://img.shields.io/badge/-dehmirandac2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dehmirandac2@gmail.com)](mailto:dehmirandac2@gmail.com)
 
