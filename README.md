@@ -1,12 +1,4 @@
-<h2 align="center">Olá, meu nome é Deborah! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h2>
-
-<p align="center">Sou formada em Design Gráfico pela UEMG e trabalho como desenvolvedora frontend há alguns (bons) anos</p>
-
-## 👩‍💻 &nbsp;Sobre mim
-
--  **Trabalhando com:**  Desenvolvimento Frontend (React, Redux, Jest, Webpack, Babel, etc) 💻
--  **Hobbies:** Bons livros :books: | Bons filmes 🎥
--  **Pergunte-me sobre:** Qualquer coisa! Gosto de ajudar e de aprender coisas novas ✌️
+<h2 align="center">Hello! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h2>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -18,13 +10,13 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## 💁 &nbsp;Alguns dados sobre meu trabalho 
+## 💁 &nbsp;A little bit about my work 
 
 <a href="https://github.com/dehmirandac2">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dehmirandac2&theme=buefy&show_icons=true" />
 </a>
 
-## 📍 &nbsp;Onde mais me encontrar
+## 📍 &nbsp;Where you can find me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/deborah-miranda-13721a37/)](https://www.linkedin.com/in/deborah-miranda-13721a37/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://deborahcasanova.medium.com/)](https://deborahcasanova.medium.com/)
